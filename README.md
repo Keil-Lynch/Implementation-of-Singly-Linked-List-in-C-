@@ -34,4 +34,4 @@ Test Case Study (Run Program)
 
 After running the program:
 
-(Output without commas): The linked list is as follows: 975 290 718 1100 356
+(Output without commas): The linked list is as follows: 975 290 718 1100 356 
